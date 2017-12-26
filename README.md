@@ -24,11 +24,18 @@ Runs the app in the development mode.
 * Bar Chart Map
 * Dot Distribution Map
 
-**To-Do**
+*To-Do*
 * Flow Map
 * Donut Charts Map
 * Stacked Bar Chart Map
+
+#### Supported Features
+* Paning and Zooming of map
+* Click on country to zoom to that country
+
+*To-Do*
 * Add mouse over functionality
+
 
 Choropleth Map
 ------
