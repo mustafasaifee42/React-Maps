@@ -248,4 +248,4 @@ dotColorRange||Array|Range of possible output values for dots' color **(Required
 dotRadiusScale|`false`|Boolean|`true` or `false` depending upon if scaling of the dots based on data is required
 dotRadiusColumn||String|Column title from which the data that needs to be used for scaling of dots is taken **(Required only if `dotRadiusScale` is `true`)**
 dotRadiusDomain|Min and Max values in the data|Array|Range of possible input data values for dots' radius
-dotRadiusRange||Array|Range of possible output values for dots' radius **(Required only if `dotRadiusScale` is `true`)*
+dotRadiusRange||Array|Range of possible output values for dots' radius **(Required only if `dotRadiusScale` is `true`)**
